@@ -12,7 +12,7 @@ The libraries and concepts of Convolutional Neural Network along with Keras laye
 
 You can find the details set of requirements from the requirements.txt file
 
-If any image not coming under any of the classes is categorized to be unrecognized 
+If an image of any other object other than raw meat is sent to the model it classifies the object as 'UNRECOGNIZED'
 
 We have used Streamlit to provide user interface for Uploading, Camera Access and to enhance the look and feel of the application
 
