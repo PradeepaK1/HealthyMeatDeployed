@@ -9,7 +9,6 @@ from PIL import Image
 image = Image.open('imgs/ic.jpeg')
 st.image(image,width=600)
 st.markdown("<span style=“background-color:#121922”>",unsafe_allow_html=True)
-from PIL import Image
 
 i1='imgs/r1.jpeg'
 i2='imgs/r2.jpeg'
