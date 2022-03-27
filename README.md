@@ -10,6 +10,8 @@ We have used a set of 100 images for training and testing, this model renders th
 
 The libraries and concepts of Convolutional Neural Network along with Keras layering has been used to predict probability of the classes Stale or Fresh 
 
+You can find the details set of requirements from the requirements.txt file
+
 If any image not coming under any of the classes is categorized to be unrecognized 
 
 We have used Streamlit to provide user interface for Uploading, Camera Access and to enhance the look and feel of the application
